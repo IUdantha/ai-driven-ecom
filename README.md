@@ -20,6 +20,10 @@
    python3 flask_api.py
    ```
 
+### For Windows:
+
+---
+
 ## Create the docker images (if needed)
 
 1. Respectively rename the docker files (into just 'Dockerfile")
