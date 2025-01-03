@@ -1,0 +1,5 @@
+myenv
+preprocessed_recipes.csv
+RAW_recipes.csv
+tfidf_matrix.pkl
+vectorizer.pkl

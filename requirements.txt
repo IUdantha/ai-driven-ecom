@@ -1,0 +1,12 @@
+ipykernel
+python-dotenv
+fastapi
+uvicorn
+pandas
+streamlit
+# pickle5
+requests
+beautifulsoup4
+scikit-learn
+notebook
+flask
