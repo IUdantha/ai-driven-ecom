@@ -68,7 +68,7 @@
 
 ## API Usage
 
-* End point: `<Hosted IP>:<post>/recommend`
+* End point: `<Hosted IP>:<port>/recommend`
 * Body (example):
 
   ```
