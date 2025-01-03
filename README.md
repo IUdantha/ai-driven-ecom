@@ -116,9 +116,8 @@ Proposal presentation: [https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-Qsl
 
 ## Current Deployment
 
-http://159.223.194.167:8501/ - Stremlit UI
-http://159.223.194.167:4321/ - Modal API
-http://159.223.194.167:8000/ - Web UI
-
-Other:
-http://159.223.194.167:8080/ - DB (mysql)
+* http://159.223.194.167:8501/ - Stremlit UI
+* http://159.223.194.167:4321/ - Modal API
+* http://159.223.194.167:8000/ - Web UI
+* Other:
+  * http://159.223.194.167:8080/ - DB (mysql)
