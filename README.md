@@ -24,8 +24,8 @@ Proposal presentation: [https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-Qsl
 2. According to requirment run the API or Streamlit UI
 
    ```
-   streamlit run Receipe Recommendation System
-   python3 flask_api.py
+   streamlit run 'Receipe Recommendation System'
+   python3 'flask_api.py'
    ```
 
 ### For Windows:
