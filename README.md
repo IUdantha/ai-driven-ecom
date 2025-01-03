@@ -2,6 +2,9 @@
 
 ![1735895897146](images/README/1735895897146.png)
 
+Proposal presentation: [https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-QslBMamhVg/edit](https://https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-QslBMamhVg/edit)
+
+
 ## Local Environment
 
 ### For Mac:
@@ -22,7 +25,7 @@
 
 ### For Windows:
 
----
+-------
 
 ## Create the docker images (if needed)
 
@@ -110,3 +113,12 @@
   ]
   ```
 * Error: You will get 401, 500 error for the wrong formats and endpoints requests.
+
+## Current Deployment
+
+http://159.223.194.167:8501/ - Stremlit UI
+http://159.223.194.167:4321/ - Modal API
+http://159.223.194.167:8000/ - Web UI
+
+Other:
+http://159.223.194.167:8080/ - DB (mysql)
