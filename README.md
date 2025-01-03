@@ -7,6 +7,11 @@ Proposal presentation: [https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-Qsl
 
 ## Local Environment
 
+1. Clone the repository
+2. Download and save the data set from [Here](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data?select=RAW_recipes.csv) and save the csv file in the root directory
+3. Rename the Downloaded file into "RAW_recipes.csv"
+4. Run the `RRS.ipynb` file to create the .pkl files.
+
 ### For Mac:
 
 1. Make a python virtual environment
@@ -19,7 +24,7 @@ Proposal presentation: [https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-Qsl
 2. According to requirment run the API or Streamlit UI
 
    ```
-   streamlit run 'Receipe Recommendation System.py'
+   streamlit run Receipe Recommendation System
    python3 flask_api.py
    ```
 
