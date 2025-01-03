@@ -1,5 +1,7 @@
 # Receipe Recommender system
 
+![1735895897146](images/README/1735895897146.png)
+
 ## Local Environment
 
 ### For Mac:
