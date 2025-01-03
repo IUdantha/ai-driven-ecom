@@ -81,7 +81,6 @@
     "ingredients": "chicken"
   }
   ```
-*
 * Response:
 
   ```
