@@ -2,7 +2,7 @@
 
 ![1735895897146](images/README/1735895897146.png)
 
-Proposal presentation: [https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-QslBMamhVg/edit](https://https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-QslBMamhVg/edit)
+Proposal presentation: [https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-QslBMamhVg/edit](https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-QslBMamhVg/edit)
 
 
 ## Local Environment
