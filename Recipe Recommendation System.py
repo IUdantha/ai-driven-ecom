@@ -9,7 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Persistent storage file
-SELECTED_RECIPES_FILE = "C:\\Users\\Azmarah Rizvi\\Desktop\\ai-driven-ecom\\selected_recipes.json"
+SELECTED_RECIPES_FILE = "selected_recipes.json"
 
 # Ensure session state is initialized properly
 if "view_selected" not in st.session_state:
@@ -55,18 +55,18 @@ def fetch_poster(recipe_name, recipe_id):
 
 @st.cache_data
 def load_recipes():
-    return pd.read_csv('C:\\Users\\Azmarah Rizvi\\Desktop\\ai-driven-ecom\\preprocessed_recipes.csv')
+    return pd.read_csv('preprocessed_recipes.csv')
 
 
 @st.cache_resource
 def load_vectorizer():
-    with open('C:\\Users\\Azmarah Rizvi\\Desktop\\ai-driven-ecom\\vectorizer.pkl', 'rb') as f:
+    with open('vectorizer.pkl', 'rb') as f:
         return pickle.load(f)
 
 
 @st.cache_resource
 def load_tfidf_matrix():
-    with open('C:\\Users\\Azmarah Rizvi\\Desktop\\ai-driven-ecom\\tfidf_matrix.pkl', 'rb') as f:
+    with open('tfidf_matrix.pkl', 'rb') as f:
         return pickle.load(f)
 
 

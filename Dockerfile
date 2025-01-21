@@ -20,4 +20,4 @@ COPY . .
 EXPOSE 8501
 
 # Run Streamlit
-CMD ["streamlit", "run", "Receipe Recommendation System.py", "--server.port=8501", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "Recipe Recommendation System.py", "--server.port=8501", "--server.address=0.0.0.0"]
