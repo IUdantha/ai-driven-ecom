@@ -2,8 +2,7 @@
 
 ![1735895897146](images/README/1735895897146.png)
 
-Proposal presentation: [https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-QslBMamhVg/edit](https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-QslBMamhVg/edit)
-
+Proposal presentation: [https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-QslBMamhVg/edit](https://https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-QslBMamhVg/edit)
 
 ## Local Environment
 
@@ -24,13 +23,13 @@ Proposal presentation: [https://www.canva.com/design/DAGbEjq_2Wk/SBvAJIN8o4B-Qsl
 2. According to requirment run the API or Streamlit UI
 
    ```
-   streamlit run 'Receipe Recommendation System'
+   streamlit run 'Recipe Recommendation System'
    python3 'flask_api.py'
    ```
 
 ### For Windows:
 
--------
+---
 
 ## Create the docker images (if needed)
 
