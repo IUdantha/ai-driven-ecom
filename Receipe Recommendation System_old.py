@@ -49,20 +49,20 @@ def fetch_poster(recipe_name, recipe_id):
 @st.cache_data
 def load_recipes():
     # Load preprocessed recipes dataset
-    recipes = pd.read_csv('preprocessed_recipes.csv')
+    recipes = pd.read_csv('C:\\Users\\Azmarah Rizvi\\Desktop\\ai-driven-ecom\\preprocessed_recipes.csv')
     return recipes
 
 @st.cache_resource
 def load_vectorizer():
     # Load TF-IDF vectorizer
-    with open('vectorizer.pkl', 'rb') as f:
+    with open('C:\\Users\\Azmarah Rizvi\\Desktop\\ai-driven-ecom\\vectorizer.pkl', 'rb') as f:
         vectorizer = pickle.load(f)
     return vectorizer
 
 @st.cache_resource
 def load_tfidf_matrix():
     # Load TF-IDF matrix
-    with open('tfidf_matrix.pkl', 'rb') as f:
+    with open('C:\\Users\\Azmarah Rizvi\\Desktop\\ai-driven-ecom\\tfidf_matrix.pkl', 'rb') as f:
         tfidf_matrix = pickle.load(f)
     return tfidf_matrix
 
